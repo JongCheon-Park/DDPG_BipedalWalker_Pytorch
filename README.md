@@ -20,4 +20,4 @@ Pillow 7.0.0
 ```
 ## References
 
-[1] [TD3] (https://github.com/nikhilbarhate99/TD3-PyTorch-BipedalWalker-v2)
+[1] [TD3-Code] (https://github.com/nikhilbarhate99/TD3-PyTorch-BipedalWalker-v2)
