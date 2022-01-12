@@ -15,7 +15,6 @@ Python 3.6
 PyTorch 1.5.0
 NumPy 1.19.5
 gym 0.15.4
-Roboschool 1.0.34
 Pillow 7.0.0
 ```
 ## References
