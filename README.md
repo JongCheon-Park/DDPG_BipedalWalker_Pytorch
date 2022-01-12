@@ -6,8 +6,8 @@ PyTorch implementation of DDPG tested on the following environments:
 
 ## Usage
 
-- To train the TD3-GAIL, run the 'train.py'
-- To test the trained TD3-GAIL, run the 'test.py'
+- To train the DDPG, run the 'train.py'
+- To test the trained DDPG, run the 'test.py'
 
 ## Requirements
 ```
